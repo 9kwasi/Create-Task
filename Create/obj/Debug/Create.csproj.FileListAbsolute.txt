@@ -1,0 +1,8 @@
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\obj\Debug\Create.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\bin\Debug\Create.exe.config
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\bin\Debug\Create.exe
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\bin\Debug\Create.pdb
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\obj\Debug\Create.exe
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\obj\Debug\Create.pdb
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\obj\Debug\Create.MainForm.resources
+C:\Users\Jesus\Documents\SharpDevelop Projects\Create\Create\obj\Debug\Create.csproj.GenerateResource.Cache
